@@ -7,6 +7,7 @@
 1.CJMCU-Beetle Leonardo USB ATMEGA32U4<br/>
 2.两个普通带冒子的按键(两引脚)<br/>
 3.万能板,线<br/>
+4.USB延长线 (用于连接电脑usb口与 CJMCU-Beetle Leonardo USB ATMEGA32U4)<br/>
 
 引脚连接<br/>
 按键1  ATMEGA32U4<br/>

@@ -1,13 +1,18 @@
 # atmega32u4_key
 
 一.功能:<br/>
-   将设备插入电脑,当按下设备上的按键, 辅助输入键盘字符至电脑,例如Ctrl+c, Ctrl+v, Ctrl+Alt+Delete, 也可以是键盘输入组合,比如先按F5,输入abc,按回车等.
+   据说软件工程师平时工作只需要两个按键就能工作, Ctrl+c, Ctrl+v<br/>
+   当然,这是一个笑话,不过这两个键确实是高频繁的按键, 软件工程师时间宝贵，如果做成硬件,每天节约几秒,长年下来能节省不少时间.<br/>
+   将设备插入电脑,当按下设备上的按键, 辅助输入键盘字符至电脑,例如Ctrl+c, Ctrl+v, Ctrl+Alt+Delete, 也可以是键盘输入组合,比如先按F5,输入abc,按回车等.<br/>
 
 二.硬件:<br/>
 1.CJMCU-Beetle Leonardo USB ATMEGA32U4<br/>
 2.两个普通带冒子的按键(两引脚)<br/>
 3.万能板,线<br/>
 4.USB延长线 (用于连接电脑usb口与 CJMCU-Beetle Leonardo USB ATMEGA32U4, 如果连接笔记本,长度建议10cm, 如果连接台式机,长度建议60cm)<br/>
+
+<img src= 'https://github.com/lixy123/atmega32u4_key/blob/main/keyboard.jpg?raw=true' /> <br/>
+
 
 引脚连接<br/>
 按键1  ATMEGA32U4<br/>

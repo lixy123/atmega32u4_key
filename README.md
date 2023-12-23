@@ -8,6 +8,15 @@
 2.两个普通带冒子的按键(两引脚)<br/>
 3.万能板,线<br/>
 
+引脚连接<br/>
+按键1  ATMEGA32U4<br/>
+第一脚  GND<br/>
+第二脚  SCL<br/>
+
+按键2  ATMEGA32U4<br/>
+第一脚  GND<br/>
+第二脚  SDA<br/>
+
 三.软件:<br/>
 1.arduino  1.8.19<br/>
 
